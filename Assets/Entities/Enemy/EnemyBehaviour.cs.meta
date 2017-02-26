@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 794a524d381fbc047b0c663522b0c576
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyProjectile: {instanceID: 0}
+  - enemyFireSound: {instanceID: 0}
+  - enemyDeathSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
